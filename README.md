@@ -1,6 +1,6 @@
 
 
-## Available Scripts
+## Available Scripts manik
 
 In the project directory, you can run:
 
